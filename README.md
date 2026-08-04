@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AA8D8,45:5D8C3F,100:6B4226&height=220&section=header&text=Ox-wgX95&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20AI%20Developer%20%E2%9B%8F%EF%B8%8F&descAlignY=55&descSize=20" width="100%"/>
+![Header](https://img.shields.io/badge/Ox--wgX95-Python_%26_AI_Developer-5D8C3F?style=for-the-badge&logo=python&logoColor=FFD700)
 
-<a href="https://git.io/typing-svg">
+<br/>
+
+<a href="https://github.com/Ox-wgX95">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Dig+deep+into+Python+%26+AI+%F0%9F%90%8D;Crafting+Telegram+bots+with+aiogram+%E2%9A%94%EF%B8%8F;Summoning+intelligence+via+Gemini+API+%F0%9F%94%AE;Loot%3A+Clean+Code+%26+Docker+containers+%F0%9F%93%A6" alt="Typing SVG" />
 </a>
 
 </div>
+
+---
 
 ## 👋 Про мене
 
@@ -94,11 +98,5 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0x_wgX95)
 [![Telegram](https://img.shields.io/badge/Telegram-4AA8D8?style=flat-square&logo=telegram&logoColor=1B1B1B)](https://t.me/Ox_wgX95)
 [![X](https://img.shields.io/badge/X-1B1B1B?style=flat-square&logo=x&logoColor=FFD700)](https://x.com/0x_wgX95)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B4226,45:5D8C3F,100:4AA8D8&height=4&section=footer" width="100%"/>
 
 </div>
