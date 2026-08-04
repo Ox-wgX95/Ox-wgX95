@@ -1,11 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D2,50:9D4EDD,100:3F0071&height=220&section=header&text=Ox-wgX95&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AA8D8,45:5D8C3F,100:6B4226&height=220&section=header&text=Ox-wgX95&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20AI%20Developer%20%E2%9B%8F%EF%B8%8F&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Building+Python+%26+AI+projects;Telegram+bots+powered+by+Gemini+API;Clean+Code+%26+Automation+enthusiast" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Dig+deep+into+Python+%26+AI+%F0%9F%90%8D;Crafting+Telegram+bots+with+aiogram+%E2%9A%94%EF%B8%8F;Summoning+intelligence+via+Gemini+API+%F0%9F%94%AE;Loot%3A+Clean+Code+%26+Docker+containers+%F0%9F%93%A6" alt="Typing SVG" />
 </a>
 
@@ -102,7 +99,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F0071,50:9D4EDD,100:FF61D2&height=3&section=footer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B4226,45:5D8C3F,100:4AA8D8&height=4&section=footer" width="100%"/>
 
 </div>
