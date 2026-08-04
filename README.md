@@ -7,6 +7,7 @@
 ![AI](https://img.shields.io/badge/Gemini_AI_Inside-5B3E96?style=for-the-badge&logo=googlegemini&logoColor=E77FC6)
 
 <br/>
+---
 
 <a href="https://github.com/Ox-wgX95">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Building+Python+%26+AI+projects;Telegram+bots+powered+by+Gemini+API;Clean+Code+%26+Automation+enthusiast" alt="Typing SVG 1" />
