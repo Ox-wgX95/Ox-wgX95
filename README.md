@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗡️ Ox-wgX95 🛡️
+<h2>🗡️ Ox-wgX95 🛡️</h2>
 ---
 ### ⛏️ Python & AI Developer | Terraria Theme Enthusiast 🌿
 
