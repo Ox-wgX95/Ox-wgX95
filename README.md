@@ -1,6 +1,22 @@
 <div align="center">
 
-![Header](https://img.shields.io/badge/Ox--wgX95-Python_%26_AI_Developer-5D8C3F?style=for-the-badge&logo=python&logoColor=FFD700)
+# 🗡️ Ox-wgX95 🛡️
+### ⛏️ Python & AI Developer | Terraria & Clean Code Enthusiast 🌿
+
+![Python](https://img.shields.io/badge/Python_3.11+-5D8C3F?style=for-the-badge&logo=python&logoColor=FFD700)
+![AI](https://img.shields.io/badge/Gemini_AI_Inside-5B3E96?style=for-the-badge&logo=googlegemini&logoColor=E77FC6)
+
+<br/>
+
+<a href="https://github.com/Ox-wgX95">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Dig+deep+into+Python+%26+AI+%F0%9F%90%8D;Crafting+Telegram+bots+with+aiogram+%E2%9A%94%EF%B8%8F;Summoning+intelligence+via+Gemini+API+%F0%9F%94%AE;Loot%3A+Clean+Code+%26+Docker+containers+%F0%9F%93%A6" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+
 
 <br/>
 
