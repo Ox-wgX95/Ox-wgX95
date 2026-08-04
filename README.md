@@ -1,7 +1,7 @@
+---
 <div align="center">
 
 <h1>🗡️ Ox-wgX95 🛡️</h1>
----
 ### ⛏️ Python & AI Developer | Terraria Theme Enthusiast 🌿
 
 ![Python](https://img.shields.io/badge/Python_3.11+-5D8C3F?style=for-the-badge&logo=python&logoColor=FFD700)
