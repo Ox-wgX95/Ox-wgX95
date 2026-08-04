@@ -40,11 +40,11 @@
 ## 📊 GitHub Stats
 ## 💰 GitHub Stats — Loot & Achievements
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ox_wgX95&show_icons=true&theme=synthwave&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ox_wgX95&theme=synthwave&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ox_wgX95&show_icons=true&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ox_wgX95&hide_border=true&background=4AA8D8,5D8C3F,6B4226&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=2E1A0F" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox_wgX95&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ox-wgX95&show_icons=true&theme=synthwave&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ox-wgX95&theme=synthwave&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ox-wgX95&show_icons=true&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ox-wgX95&hide_border=true&background=4AA8D8,5D8C3F,6B4226&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=2E1A0F" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox-wgX95&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox-wgX95&layout=compact&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&langs_count=8" width="60%"/>
 </div>
 ---
