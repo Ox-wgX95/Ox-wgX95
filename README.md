@@ -2,7 +2,7 @@
   
 # 🗡️ Ox-wgX95 🛡️
 
-## ⛏️ Python & AI Developer | Terraria Theme Enthusiast 🌿
+### ⛏️ Python & AI Developer | Terraria Theme Enthusiast 🌿
 
 ![Python](https://img.shields.io/badge/Python_3.11+-5D8C3F?style=for-the-badge&logo=python&logoColor=FFD700)
 ![AI](https://img.shields.io/badge/Gemini_AI_Inside-5B3E96?style=for-the-badge&logo=googlegemini&logoColor=E77FC6)
