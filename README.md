@@ -27,26 +27,17 @@
 
 ---
 
-## 👋 Про мене
 
-Розробник, який захоплюється **Python** та **AI-технологіями**. Створюю Telegram-ботів, автоматизацію та інтеграції зі штучним інтелектом (Google Gemini, OpenAI) — від ідеї до контейнеризованого продукту на Docker. Люблю чистий, підтримуваний код і постійно експериментую з новими AI SDK.
-> *"Dig, Fight, Explore, Build!"* — тепер і в коді.
+## ⛏️ About Me
 
-- 🤖 Розробляю Telegram-ботів на **aiogram 3** з інтеграцією AI (Gemini API)
-- 🧠 Досліджую можливості генеративного AI для реальних продуктів
-- 🐳 Контейнеризую та деплою проєкти через Docker
-- 📚 Постійно вчуся та вдосконалюю Clean Code практики
+Developer passionate about **Python** and **AI technologies**. I build Telegram bots, automation tools, and artificial intelligence integrations (Google Gemini, OpenAI) — taking projects from concept to containerized Docker deployments. I value clean, maintainable code and constantly explore new AI SDKs like a miner discovering new caves.
 
----
+> *"Dig, Fight, Explore, Build!"* — now in code.
 
-## ⛏️ Про мене
-
-Розробник, який захоплюється **Python** та **AI-технологіями**. Створюю Telegram-ботів, автоматизацію та інтеграції зі штучним інтелектом (Google Gemini, OpenAI) — від ідеї до контейнеризованого продукту на Docker. Люблю чистий, підтримуваний код і постійно досліджую нові AI SDK, як шахтар — нові печери.
-
-- ⚔️ Розробляю Telegram-ботів на **aiogram 3** з інтеграцією AI (Gemini API)
-- 🔮 Досліджую можливості генеративного AI для реальних продуктів
-- 📦 Контейнеризую та деплою проєкти через Docker
-- 💰 Постійно вчуся та вдосконалюю Clean Code практики
+- ⚔️ Developing Telegram bots with **aiogram 3** and AI integrations (Gemini API)
+- 🔮 Exploring Generative AI capabilities for real-world products
+- 📦 Containerizing and deploying projects via **Docker**
+- 💰 Continuously learning and improving Clean Code practices
 
 ---
 
@@ -105,7 +96,7 @@
 
 ---
 
-## 💬 Контакти — Порада Гіда
+## 💬 Contact Me — Guide's Advice
 
 <div align="center">
 
