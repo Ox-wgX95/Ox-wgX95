@@ -45,16 +45,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ox_wgX95&show_icons=true&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&count_private=true&rank_icon=github" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ox_wgX95&hide_border=true&background=4AA8D8,5D8C3F,6B4226&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=2E1A0F" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox_wgX95&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox_wgX95&layout=compact&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox-wgX95&layout=compact&hide_border=true&bg_color=4AA8D8,5D8C3F,6B4226&title_color=FFD700&text_color=FFFFFF&border_color=2E1A0F&langs_count=8" width="60%"/>
 </div>
 ---
 ## 📬 Контакти
 ## 📜 Контакти — Порада Гіда
 <div align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your_x_handle)
-[![Telegram](https://img.shields.io/badge/Telegram-4AA8D8?style=flat-square&logo=telegram&logoColor=1B1B1B)](https://t.me/your_telegram_username)
-[![X](https://img.shields.io/badge/X-1B1B1B?style=flat-square&logo=x&logoColor=FFD700)](https://x.com/your_x_handle)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ox_wgX95)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ox_wgX95)
+[![Telegram](https://img.shields.io/badge/Telegram-4AA8D8?style=flat-square&logo=telegram&logoColor=1B1B1B)](https://t.me/Ox_wgX95)
+[![X](https://img.shields.io/badge/X-1B1B1B?style=flat-square&logo=x&logoColor=FFD700)](https://x.com/Ox_wgX95)
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F0071,50:9D4EDD,100:FF61D2&height=3&section=footer" width="100%"/>
